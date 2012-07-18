@@ -1,5 +1,18 @@
 Release notes for Strong's Greek Dictionary in XML
-By Ulrik Petersen
+By Ulrik Sandborg-Petersen
+
+Version 1.5 (2012-07-18)
+========================
+
+- Now entries with 'of uncertain affinity' as the derivation have a
+  correct split between <strongs_derivation>of uncertain
+  affinity;</strongs_derivation> and the real definition.  Before, the
+  definition would be included in the derivation as well.
+
+- Fixed derivation of 5043 to be from 5088, not 5098.
+
+- Various other fixes to either spellings or derivations.
+
 
 Version 1.4 (2007-09-14)
 ========================
