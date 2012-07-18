@@ -1,7 +1,13 @@
 Release notes for Strong's Greek Dictionary in XML
 By Ulrik Sandborg-Petersen
 
-Version 1.5 (2012-07-18)
+Version 1.55 (2012-07-18)
+========================
+
+- Fixed spelling of 'scupltured' --> 'sculptured' in 5480.
+
+
+Version 1.5 (2011-09-26)
 ========================
 
 - Now entries with 'of uncertain affinity' as the derivation have a
