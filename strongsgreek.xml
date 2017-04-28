@@ -8790,7 +8790,7 @@ and if so, we would appreciate being informed of the error.
 
  <strongs_derivation>a primary numeral;</strongs_derivation><strongs_def> "two"</strongs_def><kjv_def>:--both, twain, two.</kjv_def>
 </entry><entry strongs="01418">
- <strongs>1418</strongs>   <greek BETA="DUS-" unicode="δυσ-" translit="dys-"/>   <pronunciation strongs="doos"/>
+ <strongs>1418</strongs>   <greek BETA="DUS-" unicode="δυσ‐" translit="dys-"/>   <pronunciation strongs="doos"/>
 
  <strongs_derivation>a primary inseparable particle of uncertain derivation;</strongs_derivation><strongs_def> used only in
  composition as a prefix; hard, i.e. with difficulty</strongs_def><kjv_def>:--+ hard, +
@@ -21182,7 +21182,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03516">
  <strongs>3516</strongs>   <greek BETA="NH/PIOS" unicode="νήπιος" translit="nḗpios"/>   <pronunciation strongs="nay'-pee-os"/>
 
- <strongs_derivation>from an obsolete particle <greek BETA="NH/-" unicode="νή-" translit="nḗ-"/> (implying negation) and <strongsref language="GREEK" strongs="2031"/>;</strongs_derivation><strongs_def> not
+ <strongs_derivation>from an obsolete particle <greek BETA="NH/-" unicode="νή‐" translit="nḗ-"/> (implying negation) and <strongsref language="GREEK" strongs="2031"/>;</strongs_derivation><strongs_def> not
  speaking, i.e. an infant (minor); figuratively, a simple-minded
  person, an immature Christian</strongs_def><kjv_def>:--babe, child (+ -ish).</kjv_def>
 <see language="GREEK" strongs="2031"/>
@@ -21221,7 +21221,7 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="03523">
  <strongs>3523</strongs>   <greek BETA="NH=STIS" unicode="νῆστις" translit="nēstis"/>   <pronunciation strongs="nace'-tis"/>
 
- <strongs_derivation>from the inseparable negative particle <greek BETA="NH/-" unicode="νή-" translit="nḗ-"/> (not) and <strongsref language="GREEK" strongs="2068"/>;</strongs_derivation><strongs_def> not eating,
+ <strongs_derivation>from the inseparable negative particle <greek BETA="NH/-" unicode="νή‐" translit="nḗ-"/> (not) and <strongsref language="GREEK" strongs="2068"/>;</strongs_derivation><strongs_def> not eating,
  i.e. abstinent from food (religiously)</strongs_def><kjv_def>:--fasting.</kjv_def>
 <see language="GREEK" strongs="2068"/>
 </entry><entry strongs="03524">
@@ -27181,7 +27181,7 @@ and if so, we would appreciate being informed of the error.
  conflagration, calamity as a test)</strongs_def><kjv_def>:--burning, trial.</kjv_def>
 <see language="GREEK" strongs="4448"/>
 </entry><entry strongs="04452">
- <strongs>4452</strongs>   <greek BETA="-PW" unicode="-πω" translit="-pō"/>   <pronunciation strongs="po"/>
+ <strongs>4452</strongs>   <greek BETA="-PW" unicode="‐πω" translit="-pō"/>   <pronunciation strongs="po"/>
 
  <strongs_derivation>another form of the base of <strongsref language="GREEK" strongs="4458"/>;</strongs_derivation><strongs_def> an enclitic particle of
  indefiniteness; yet, even; used only in the comparative. See <strongsref language="GREEK" strongs="3369"/>,
@@ -27222,7 +27222,7 @@ and if so, we would appreciate being informed of the error.
  <strongs_derivation>from <strongsref language="GREEK" strongs="4456"/>;</strongs_derivation><strongs_def> stupidity or callousness</strongs_def><kjv_def>:--blindness, hardness.</kjv_def>
 <see language="GREEK" strongs="4456"/>
 </entry><entry strongs="04458">
- <strongs>4458</strongs>   <greek BETA="-PW/S" unicode="-πώς" translit="-pṓs"/>   <pronunciation strongs="poce"/>
+ <strongs>4458</strongs>   <greek BETA="-PW/S" unicode="‐πώς" translit="-pṓs"/>   <pronunciation strongs="poce"/>
 
  <strongs_derivation>adverb from the base of <strongsref language="GREEK" strongs="4225"/>;</strongs_derivation><strongs_def> an enclitic particle of indefiniteness
  of manner; somehow or anyhow; used only in composition</strongs_def><kjv_def>:--haply, by any
@@ -33957,9 +33957,10 @@ and if so, we would appreciate being informed of the error.
 </entry><entry strongs="05521">
  <strongs>5521</strongs>   <greek BETA="XOLH/" unicode="χολή" translit="cholḗ"/>   <pronunciation strongs="khol-ay'"/>
 
- <strongs_derivation>feminine of an equivalent perhaps akin to the same as 5514 (from the
+ <strongs_derivation>feminine of an equivalent perhaps akin to the same as <strongsref language="GREEK" strongs="5514"/> (from the
  greenish hue);</strongs_derivation><strongs_def> "gall" or bile, i.e. (by analogy) poison or an anodyne
  (wormwood, poppy, etc.)</strongs_def><kjv_def>:--gall.</kjv_def>
+<see language="GREEK" strongs="5514"/>
 </entry><entry strongs="05522">
  <strongs>5522</strongs>   <greek BETA="XO/OS" unicode="χόος" translit="chóos"/>   <pronunciation strongs="kho'-os"/>
 

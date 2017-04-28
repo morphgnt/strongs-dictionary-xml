@@ -1,6 +1,12 @@
 Release notes for Strong's Greek Dictionary in XML
 By Ulrik Sandborg-Petersen
 
+Version 1.6 (2017-04-28)
+========================
+
+- Add link from G5521 to G5514.
+
+
 Version 1.55 (2012-07-18)
 ========================
 
