@@ -19,6 +19,10 @@ Greek*.
 
 # Release notes
 
+## Version 1.7 (2017-04-28)
+
+* Release explicitly under the CC0 copyright waiver (Public Domain).
+
 
 ## Version 1.6 (2017-04-28)
 
