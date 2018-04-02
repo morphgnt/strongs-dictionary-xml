@@ -19,6 +19,12 @@ Greek*.
 
 # Release notes
 
+## Version 1.8 (2018-04-02)
+
+* Much proof-reading of individual entries.
+* Some instances of "participle" -> "particle" or "part".
+* Many instances of "comparative" -> "compound" or "compounds".
+
 ## Version 1.7 (2017-04-28)
 
 * Release explicitly under the CC0 copyright waiver (Public Domain).
