@@ -24,6 +24,11 @@ Greek*.
 * Much proof-reading of individual entries.
 * Some instances of "participle" -> "particle" or "part".
 * Many instances of "comparative" -> "compound" or "compounds".
+* Remove the <see.../> element, since it is redundant.  The
+  information is in the main part of each article.
+* Remove the "see" element from the DTD.
+* In the DTD, state the fact that the attribute "language" on the element
+  "strongsref" is an enumeration consisting of (GREEK|HEBREW).
 
 ## Version 1.7 (2017-04-28)
 
