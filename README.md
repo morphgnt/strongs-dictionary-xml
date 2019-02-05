@@ -19,6 +19,11 @@ Greek*.
 
 # Release notes
 
+## Version 1.9 (2019-02-05)
+
+* Fix a wrong "derived from": G2552 is derived from G2556 instead of
+  G2256.
+
 ## Version 1.8 (2018-04-02)
 
 * Much proof-reading of individual entries.
